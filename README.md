@@ -1,4 +1,4 @@
-# Analying relationship between fish biomass and phosphorus in the Great Lakes nearshore and offshore
+# Relationship between fish biomass and phosphorus in the Great Lakes nearshore and offshore
 - Read the data from an excel file that has two sheets, "data" and "readme"
 - The sheet "data" contains fish biomass information as follows:
 
